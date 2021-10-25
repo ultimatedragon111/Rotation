@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">layout</string>
+    <string name="arinsal">Arinsal</string>
+    <string name="parc_nacional_andorra">Parc Nacional Andorra</string>
+    <string name="num_arinsal">+34 971 71 71</string>
+    <string name="refugi_jm_blanc">Refugi JM Blanc</string>
+    <string name="parc_aiguastortes">Parc Aiguastortes</string>
+    <string name="refugi_ventosa_i_clavell">Refugi Ventosa i Clavell</string>
+    <string name="refugi_amitges">Refugi Amitges</string>
+    <string name="reserva">RESERVA</string>
+    <string name="nom">Nom</string>
+    <string name="cognoms">Cognoms</string>
+    <string name="email">Email</string>
+    <string name="enviar">Enviar</string>
+</resources>
