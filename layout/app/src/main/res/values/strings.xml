@@ -12,4 +12,6 @@
     <string name="cognoms">Cognoms</string>
     <string name="email">Email</string>
     <string name="enviar">Enviar</string>
+    <string name="entrada">Entrada</string>
+    <string name="sortida">Sortida</string>
 </resources>
